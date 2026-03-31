@@ -1,0 +1,8 @@
+{
+  "root_cause": "Failsafe Triggered",
+  "confidence": 0.9,
+  "evidence": [
+    "ERR column contains non-zero value"
+  ],
+  "suggestion": "Review full log for failsafe cause. Check RC link, geofence, and battery failsafe settings."
+}
