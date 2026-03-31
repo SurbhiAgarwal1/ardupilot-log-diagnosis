@@ -1,7 +1,7 @@
 # AI-Assisted Log Diagnosis System (Prototype)
 
 This project implements a modular, explainable log diagnosis system for ArduPilot-style logs. It analyzes telemetry data and automatically identifies potential root causes of issues along with confidence scores, supporting evidence, and actionable suggestions.
-
+This project moves beyond traditional log inspection by providing structured, explainable diagnosis with confidence scoring and actionable recommendations.
 ## Overview
 
 The system follows a structured pipeline:
